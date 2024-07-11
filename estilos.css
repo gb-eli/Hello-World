@@ -18,3 +18,12 @@ header{
 footer{
    border-top: 1px solid grey;
 }
+
+#nome_usuario{
+  font-weight: bold;
+}
+
+.texto_ingles {
+  font-style: italic;
+  
+}
