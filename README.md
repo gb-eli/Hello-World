@@ -1,2 +1,3 @@
 # Hello-World
-Página Web para atividade do curso de Formação de Professores do Alura (2024)
+Repositório para atividade do curso de formação de professores do Alura Start (SEED-PR).
+(2024)
